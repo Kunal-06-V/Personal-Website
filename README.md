@@ -1,13 +1,15 @@
 # Personal Website 🌐
 
-This is my personal website built using HTML, CSS, and JavaScript.
+## 🔗 Links
+- Live: https://kunal-06-v.github.io/Personal-Website/
+- Code: https://github.com/Kunal-06-V/Personal-Website
 
 ## 🚀 Features
 - Personal profile
 - Styled UI
-- Basic JavaScript functionality
+- Responsive layout
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
